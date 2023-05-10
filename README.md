@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chenjason219
+- 👋 Hi, I’m Jason
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me ... EMAIL ME OR GO TO MY WEBSITE AND FOLLOW MY SOCIAL LINKS https://chenjason219.github.io/
 
