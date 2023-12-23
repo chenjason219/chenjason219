@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently a React.Js developer
 - 📫 How to reach me ... EMAIL ME OR GO TO MY WEBSITE AND FOLLOW MY SOCIAL LINKS https://chenjason219.github.io/
 
 <!---
